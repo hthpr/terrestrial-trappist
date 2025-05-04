@@ -1,8 +1,8 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "Fifth Learning About Markdown in Astro"
 author: Astro Learner
 pubDate: 2022-08-08
+description: "This post we created automatically!"
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pink glow.'
